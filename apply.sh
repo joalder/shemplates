@@ -1,0 +1,1 @@
+sudo ln -s alias.sh /etc/profile.d/my_nice_aliases.sh
